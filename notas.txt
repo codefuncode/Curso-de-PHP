@@ -1,0 +1,74 @@
+sudo /opt/lampp/lampp start
+
+
+    1 -  ¿Qué es PHP?
+    2 -  Instalación del entorno XAMPP
+    3 -  Programa "Hola Mundo" en PHP
+    4 -  Un programita más útil que "Hola Mundo"
+    5 -  Tipos de variables
+    6 -  Variables de tipo string
+    7 -  Estructura condicional (if)
+    8 -  Estructuras repetitivas (for - while - do/while)
+    9 -  Envío de datos de un FORMULARIO (controles text y submit)
+    10 - FORMULARIO (control radio)
+    
+    11 - FORMULARIO (control checkbox)
+    12 - FORMULARIO (control select)
+    13 - FORMULARIO (control textarea)
+    14 - Vectores (tradicionales)
+    15 - Creación de un archivo de texto.
+    16 - Lectura de un archivo de texto.
+    17 - Vectores (asociativos)
+    18 - Funciones en PHP
+    19 - Base de datos (MySQL)
+    20 - INSERT (Alta de registros en una tabla)
+
+
+    21 - Listado (selección de registros de una tabla)
+    22 - Consulta (selección de registros de una tabla)
+    23 - DELETE (Baja de un registro en una tabla)
+    24 - DELETE (Baja de todos los registros de una tabla)
+    25 - UPDATE (Modificación de un registro de una tabla)
+    26 - INSERT (y consulta de otra tabla)
+    27 - Listado (selección de registros de varias tablas - INNER JOIN)
+    28 - Función count de SQL.
+    29 - UPDATE (Modificación de un registro trabajando con dos tablas)
+    30 - Cláusula Group By de SQL.
+
+
+    31 - Parámetros en un hipervínculo.
+    32 - Paginación de registros.
+    33 - Subir un archivo al servidor (Upload)
+    34 - Creación y lectura de una cookie
+    35 - Borrado de una cookie
+    36 - Cookie de sesión
+    37 - Variables de sesión ($_SESSION)
+    38 - Incluir un archivo externo (require_once)
+    39 - Redireccionar a otra página (header)
+    40 - Creación de imágenes dinámicas desde PHP.
+
+
+    41 - Agregar imágenes dinámicas en un archivo HTML
+    42 - Administración de fechas y horas (función date)
+    43 - Validación de una fecha ingresada por teclado (checkdate)
+    44 - Carga de una fecha en una tabla de MySQL
+    45 - Formateo de datos en una página (printf)
+    46 - Formateo de datos y salida a un string (sprintf)
+    47 - mysqli - POO (Programación Orientada a Objetos)
+    48 - mysqli (POO) - alta tabla rubros
+    49 - mysqli (POO) - listado tabla rubros
+    50 - mysqli (POO) - consulta tabla rubros
+
+
+    51 - mysqli (POO) - borrado de un registro de la tabla rubros
+    52 - mysqli (POO) - modificación de un registro de la tabla rubros
+    53 - mysqli (POO) - alta tabla articulos
+    54 - mysqli (POO) - listado tabla articulos
+    55 - mysqli (POO) - consulta tabla articulos
+    56 - mysqli (POO) - borrado de un registro de la tabla articulos
+    57 - mysqli (POO) - modificación de un registro de la tabla articulos
+    58 - mysqli (POO) - panel para ABM de la tabla articulos
+    59 - mysqli (POO) - propiedad: affected_rows
+    60 - mysqli (POO) - propiedad: insert_id
+
+

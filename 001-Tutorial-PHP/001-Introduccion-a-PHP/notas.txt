@@ -1,0 +1,192 @@
+Introducción a PHP
+
+Empecemos PHP Introducción PHP Tres letras que juntas constituyen el nombre de uno de los lenguajes de programación más populares del mundo para el desarrollo web, el preprocesador de hipertexto PHP.
+
+Si bien es posible que se ría entre dientes ante el color verdoso del acrónimo recursivo, las estadísticas indican que PHP no debe tomarse a la ligera: el lenguaje se usa hoy en más de veinte millones de sitios web y más de un tercio de los servidores web del mundo; no es poca cosa, especialmente cuando se considera que el idioma ha sido desarrollado íntegramente por una comunidad mundial de voluntarios y está disponible gratuitamente en Internet ¡sin costo alguno!
+
+En los últimos años, PHP se ha convertido en la opción de facto para el desarrollo de aplicaciones web basadas en datos, especialmente debido a su escalabilidad, facilidad de uso y soporte generalizado para diferentes bases de datos y formatos de datos.
+
+Este primer capítulo le presentará suavemente el mundo de PHP, al llevarlo a un recorrido relámpago por la historia y las características de PHP, y luego lo guiará a través de la escritura y ejecución de su primer programa PHP. Así que pase la página y comencemos.
+Historia de PHP
+
+PHP fue creado originalmente por un desarrollador llamado Rasmus Lerdorf.
+
+
+==================================================================== 
+====================================================================
+====================================================================
+====================================================================
+====================================================================
+====================================================================
+====================================================================
+
+
+El preprocesador de hipertexto PHP (PHP) es un lenguaje de programación que permite a los desarrolladores web crear contenido dinámico que interactúa con bases de datos. PHP se utiliza básicamente para desarrollar aplicaciones de software basadas en web. Este tutorial le ayuda a construir su base con PHP.
+¿Por qué aprender PHP?
+
+PHP comenzó como un pequeño proyecto de código abierto que evolucionó a medida que más y más personas descubrieron lo útil que era. Rasmus Lerdorf lanzó la primera versión de PHP en 1994.
+
+PHP es imprescindible para que los estudiantes y los profesionales en activo se conviertan en un gran ingeniero de software, especialmente cuando están trabajando en el dominio de desarrollo web. Enumeraré algunas de las ventajas clave de aprender PHP:
+
+    PHP es un acrónimo recursivo de 'PHP: Preprocesador de hipertexto'.
+
+    PHP es un lenguaje de scripting del lado del servidor que está incrustado en HTML. Se utiliza para administrar contenido dinámico, bases de datos, seguimiento de sesiones e incluso crear sitios completos de comercio electrónico.
+
+    Está integrado con varias bases de datos populares, incluidas MySQL, PostgreSQL, Oracle, Sybase, Informix y Microsoft SQL Server.
+
+    PHP es agradablemente ágil en su ejecución, especialmente cuando se compila como un módulo de Apache en el lado de Unix. El servidor MySQL, una vez iniciado, ejecuta incluso consultas muy complejas con grandes conjuntos de resultados en un tiempo récord.
+
+    PHP admite una gran cantidad de protocolos importantes como POP3, IMAP y LDAP. PHP4 agregó soporte para Java y arquitecturas de objetos distribuidos (COM y CORBA), haciendo que el desarrollo de n niveles sea una posibilidad por primera vez.
+
+    PHP es indulgente: el lenguaje PHP intenta ser lo más indulgente posible.
+
+    La sintaxis de PHP es similar a C.
+
+    Características de PHP
+
+Cinco características importantes hacen posible la naturaleza práctica de PHP:
+
+    Sencillez
+    Eficiencia
+    Seguridad
+    Flexibilidad
+    Familiaridad
+
+Hola mundo usando PHP.
+
+Solo para darle un poco de entusiasmo sobre PHP, le voy a dar un pequeño programa convencional PHP Hello World. Puede probarlo usando el enlace Demo.
+
+Aplicaciones de PHP
+
+Como se mencionó anteriormente, PHP es uno de los lenguajes más utilizados en la web. Voy a enumerar algunos de ellos aquí:
+
+    PHP realiza funciones del sistema, es decir, a partir de archivos en un sistema que puede crear, abrir, leer, escribir y cerrar.
+
+    PHP puede manejar formularios, es decir, recopilar datos de archivos, guardar datos en un archivo, a través del correo electrónico puede enviar datos, devolver datos al usuario.
+
+    Agrega, elimina, modifica elementos dentro de su base de datos a través de PHP.
+
+    Accede a las variables de cookies y configura cookies.
+
+    Con PHP, puede restringir el acceso de los usuarios a algunas páginas de su sitio web.
+
+    Puede cifrar datos.
+
+Audiencia
+
+Este tutorial de PHP está diseñado para programadores de PHP que desconocen por completo los conceptos de PHP, pero tienen conocimientos básicos de programación informática.
+Prerrequisitos
+
+Antes de continuar con este tutorial, debe tener al menos un conocimiento básico de programación de computadoras, Internet, bases de datos y MySQL, etc.es muy útil
+
+
+==================================================================== 
+====================================================================
+====================================================================
+====================================================================
+====================================================================
+====================================================================
+====================================================================
+
+El código PHP se ejecuta en el servidor.
+Lo que ya deberías saber
+
+Antes de continuar, debe tener una comprensión básica de lo siguiente:
+
+    HTML
+    CSS
+    JavaScript
+
+Si desea estudiar estas materias primero, encuentre los tutoriales en nuestra página de inicio.
+¿Qué es PHP?
+
+    PHP es un acrónimo de 'PHP: preprocesador de hipertexto'
+    PHP es un lenguaje de script de código abierto ampliamente utilizado
+    Los scripts PHP se ejecutan en el servidor
+    PHP es gratis para descargar y usar
+
+¡PHP es un lenguaje increíble y popular!
+
+¡Es lo suficientemente potente como para ser el núcleo del sistema de blogs más grande de la web (WordPress)!
+¡Es lo suficientemente profundo como para ejecutar la red social más grande (Facebook)!
+¡También es bastante fácil ser el primer lenguaje del lado del servidor para principiantes!
+¿Qué es un archivo PHP?
+
+    Los archivos PHP pueden contener texto, HTML, CSS, JavaScript y código PHP
+    El código PHP se ejecuta en el servidor y el resultado se devuelve al navegador como HTML sin formato
+    Los archivos PHP tienen la extensión '.php'
+
+¿Qué puede hacer PHP?
+
+    PHP puede generar contenido de página dinámico
+    PHP puede crear, abrir, leer, escribir, eliminar y cerrar archivos en el servidor
+    PHP puede recopilar datos de formulario
+    PHP puede enviar y recibir cookies
+    PHP puede agregar, eliminar, modificar datos en su base de datos
+    PHP puede usarse para controlar el acceso de los usuarios
+    PHP puede encriptar datos
+
+Con PHP no está limitado a la salida HTML. Puede generar imágenes, archivos PDF e incluso películas Flash. También puede generar cualquier texto, como XHTML y XML.
+¿Por qué PHP?
+
+    PHP se ejecuta en varias plataformas (Windows, Linux, Unix, Mac OS X, etc.)
+    PHP es compatible con casi todos los servidores que se usan actualmente (Apache, IIS, etc.)
+    PHP admite una amplia gama de bases de datos
+    PHP es gratis. Descárguelo del recurso oficial de PHP: www.php.net
+    PHP es fácil de aprender y se ejecuta eficientemente en el lado del servidor
+
+¿Qué hay de nuevo en PHP 7?
+
+    PHP 7 es mucho más rápido que la versión estable popular anterior (PHP 5.6)
+    PHP 7 ha mejorado el manejo de errores
+    PHP 7 admite declaraciones de tipo más estrictas para argumentos de función
+    PHP 7 admite nuevos operadores (como el operador de nave espacial: =)
+
+
+
+       PHP OOP
+PHP ¿Qué es POO?
+Clases / Objetos PHP
+Constructor PHP
+Destructor PHP
+Modificadores de acceso PHP
+Herencia PHP
+Constantes PHP
+Clases abstractas de PHP
+Interfaces PHP
+Rasgos de PHP
+Métodos estáticos PHP
+Propiedades estáticas de PHP
+Espacios de nombres PHP
+Iterables PHP
+
+Base de datos MySQL
+Base de datos MySQL
+Conexión MySQL
+MySQL Crear base de datos
+Crear tabla de MySQL
+Datos de inserción de MySQL
+MySQL Obtener el último ID
+Insertar múltiples de MySQL
+Preparado para MySQL
+Datos seleccionados de MySQL
+MySQL donde
+Ordenar por MySQL
+Eliminar datos de MySQL
+Datos de actualización de MySQL
+Límite de datos de MySQL
+
+PHP XML
+Analizadores XML PHP
+Analizador PHP SimpleXML
+PHP SimpleXML - Obtener
+PHP XML Expat
+DOM XML de PHP
+
+PHP - AJAX
+Introducción a AJAX
+PHP AJAX
+Base de datos AJAX
+XML AJAX
+Búsqueda en vivo AJAX
+Encuesta AJAX
