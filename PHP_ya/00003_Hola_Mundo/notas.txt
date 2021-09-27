@@ -1,0 +1,18 @@
+Bienvenido a una nueva entrada de blog. En esta ocasión hablaremos de la salida de datos, usando PHP. Esta entrada tiene el propósito de mostrar la sintaxis básica de PHP con el objetivo que puedas comprender muchas de las entradas que publicaré en el futuro. Ya comprendimos como instalar el paquete para programar nuestras aplicaciones web usando un entorno de pruebas local usando las herramientas que nos proporciona  XAMPP. 
+
+Por cierto mi blog está enfocado al desarrollo de aplicaciones comerciales usando MySQL. PHP, JavaScript, CSS y HTML. Ya que se trabaja aplicaciones comerciales también tocaremos temas como lo son la administración de empresas, contabilidad, estadísticas, control de inventario  y todo lo relacionado con la administración organizaciones comerciales.  
+
+Ahora veamos salidas de datos y diferentes formas de desplegar en pantalla. Para comprender esto debemos tener conocimientos básicos de HTML, pues los datos se despliegan en un navegador  y, PHP solo trabaja del lado del servidor, convirtiéndose así totalmente invisible para el usuario final.  Más adelante veremos estrategias para escribir JavaScript desde lado del servidor y ejecutarlo de manera dinámica. Por ahora desplegaremos algo de HTML y CSS. Por cierto recomendó aprender algo de CSS para. 
+
+
+
+Primero escribimos las instrucciones para desplegar lago de texto en pantalla. 
+
+
+A continuación ejemplos  donde se despliega texto y etiquetas HTML.  
+
+
+
+Observa cuando abrimos la consola del navegador. PHP no esta hay. Entonces que sucede que las instrucciones PHP envía al navegador elementos HTML para que el navegador los despliegue según los interpreta, los navegadores no interpretan todo igual y es más notable cuando usamos JavaScript y CSS.  
+
+Bien, aquí está el paso más interesante. Busque el directorio donde instaló su aplicación XAMPP. y luego vaya a "… / XAMPP / htdocs /". Crea una nueva carpeta y coloca el nombre de tu preferencia. Abra un editor de texto cualquiera crea un fichero llamado (index.html) se puede llamar como gustes, pero por convención y compatibilidad con servidores reales debe haber al menos un fichero llmaado index.html o (indfex.php)en este acaso usaremos la extencion (.php) luego ve a tunavegador y escribe l;a ruta de donde esta tu proyecto 
