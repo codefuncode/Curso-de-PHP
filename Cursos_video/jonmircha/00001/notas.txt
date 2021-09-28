@@ -1,0 +1,28 @@
+Temario
+
+00001 introducción
+00002 Consideraciones 
+00004 Introducción a la programación orientada a objetos 
+00005 Programación orientada a objetos en PHP
+00006 Bases de Datos
+00007 Introducción al modelo vista controlador  MVC
+00008 Patrón MVC en PHP 
+00009 DEsarollode framework MVC con PHP y MySql 
+
+
+00002 Consideraciones
+
+	Conocimientos de:
+			Programación 
+			Entornos de Servidor
+			Bases de Datos 
+			PHP estructurado
+			Se autodidacta
+			Lee documentación 
+			Aprende ingles 
+
+
+
+Referenecia  
+
+https://www.youtube.com/watch?v=OminOd-O5r0&list=PLvq-jIkSeTUZEHvKw7Gx3g5CjlcvA3jr1&index=1
