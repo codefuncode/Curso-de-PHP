@@ -1,0 +1,52 @@
+﻿Introducción a PHP 
+
+Existe una muchos lenguajes de programación que pueden ejecutarse del lado de servidor. Sin embargo yo realizo una especialización en este lenguaje. Por lo que mis publicaciones están destinadas al uso del el lenguaje  e implementación  de librearías del lenguaje.   
+
+Ahora vemos una descripción de lo que es PHP y otros detalles. 
+
+Primeo recalcamos que PHP se ejecuta en el servidor. Además deberías saber HTML CSS, JavaScript y MySQL. Ya que estos se complementan para hacer aplicaciones únicas, que se ejecutan en un servidor Apache. También estaré publicando entradas de estos lenguajes en este Blog. 
+
+
+¿Qué es PHP?
+
+    PHP es un acrónimo de "PHP: Hipertexto PROPROCESADOR"
+    PHP es un lenguaje de scripting de código abierto ampliamente utilizado
+    Los scripts PHP se ejecutan en el servidor
+    PHP es gratis para descargar y usar
+
+PHP es un idioma increíble y popular!
+
+¡Es lo suficientemente poderoso como para estar en el núcleo del sistema de blogs más grande de la web (WordPress)!
+¡Es lo suficientemente profundo como para ejecutar grandes redes sociales!
+¡También es lo suficientemente fácil de ser el primer idioma del servidor de un principiante!
+¿Qué es un archivo PHP?
+
+    Los archivos PHP pueden contener texto, HTML, CSS, JavaScript y PHP.
+    El código PHP se ejecuta en el servidor, y el resultado se devuelve al navegador como HTML simple
+    Los archivos PHP tienen extensión ".php"
+
+¿Qué puede hacer PHP?
+
+    PHP puede generar contenido de página dinámica
+    PHP puede crear, abrir, leer, escribir, eliminar y cerrar archivos en el servidor
+    PHP puede recopilar datos de formularios
+    PHP puede enviar y recibir cookies
+    PHP puede agregar, eliminar, modificar datos en su base de datos
+    PHP se puede utilizar para controlar el acceso al usuario
+    PHP puede cifrar datos
+
+Con PHP no se limita a la salida HTML. Puede generar imágenes, archivos PDF e incluso películas flash. También puede generar cualquier texto, como XHTML y XML.
+¿Por qué PHP?
+
+    PHP se ejecuta en varias plataformas (Windows, Linux, Unix, Mac OS X, etc.)
+    PHP es compatible con casi todos los servidores utilizados hoy (Apache, IIS, etc.)
+    PHP admite una amplia gama de bases de datos
+    PHP es gratuito. Descárguelo desde el recurso oficial de PHP: www.php.net
+    PHP es facil de aprender y funcionar de manera eficiente en el lado del servidor
+
+¿Qué hay de nuevo en PHP 7?
+
+    PHP 7 es mucho más rápido que la publicación estable anterior (PHP 5.6)
+    PHP 7 ha mejorado el manejo de errores
+    PHP 7 es compatible con las declaraciones de tipo más estricto para los argumentos de la función
+    PHP 7 admite nuevos operadores (como el operador de la nave espacial: <=>)
