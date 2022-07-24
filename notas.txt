@@ -71,4 +71,5 @@ sudo /opt/lampp/lampp start
     59 - mysqli (POO) - propiedad: affected_rows
     60 - mysqli (POO) - propiedad: insert_id
 
+https://www.youtube.com/results?search_query=sistema+desde+cero+php+
 
