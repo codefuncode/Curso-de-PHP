@@ -1,6 +1,18 @@
-# Estudios del lenguaje PHP
-
-Este repositorio contiene estudios del el lenguaje de PHP. se trabajan distintas fuentes tanto escritas como audio visuales. 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>
+      Document
+    </title>
+  </head>
+  <body>
+    <h1>
+      Estudios del lenguaje PHP
+    </h1>
+    <img src="./img/wp1958160-php-wallpapers.jpg" alt="" style="width: 100%;" />
+<h3>    Este repositorio contiene estudios del el lenguaje de PHP. se trabajan distintas fuentes tanto escritas como audio visuales.</h3> 
 
 
 
@@ -30,16 +42,5 @@ Este repositorio contiene estudios del el lenguaje de PHP. se trabajan distintas
 - [xxxxxxxxx](https://www.youtube.com/playlist?list=PLH_tVOsiVGzmn89QxjFTCE19rLSDqG03U)
 - [xxxxxxxxx](https://www.youtube.com/playlist?list=PL3b9xmg86NTIy18iJLav8oGyA3c__lw0S)
 - [xxxxxxxxx](https://www.youtube.com/playlist?list=PLCTD_CpMeEKQhRiJx7Wv3pM3rYvT9_CS9)
-
-
-
-
-
-
-
-
-
-
-
-
-
+  </body>
+</html>
