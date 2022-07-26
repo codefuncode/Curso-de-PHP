@@ -1,0 +1,19 @@
+
+
+
+Los siguientes nombres de métodos se consideran mágicos: __construct(), __destruct(), __call(), __callStatic(), __get(), __set(), __isset(), __unset(), __sleep(), __wakeup(), __serialize(), __unserialize(), __toString(), __invoke(), __set_state(), __clone(), and __debugInfo(). 
+
+
+https://www.php.net/manual/en/language.oop5.magic.php
+
+
+$array1 = array("a" => 1, 2, 3, 4, 5, 6);
+
+$array2 = array("b" => 5, 6, 7, 8, 9, 10, 11, 12);
+
+$array2 = array("b" => 5, "a" => 1, 6, 7, 8, 9, 10, 11, 12);
+
+
+$array1 = array(1, 2, 3, 4, 5, 6);
+
+$array2 = array(5, 6, 7, 8, 9, 10, 11, 12);

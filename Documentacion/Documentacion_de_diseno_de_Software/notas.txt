@@ -1,0 +1,5 @@
+https://refactoring.guru/es/design-patterns/php
+https://tutoriales.edu.lat/pub/php/php-design-patterns/php-patrones-de-diseno
+https://donnierock.com/patrones-de-diseno-y-php/
+https://latteandcode.medium.com/patrones-de-dise%C3%B1o-en-php-2e486de337d7
+https://www.mercenariophp.com/estructura-directorios-proyecto-php/
