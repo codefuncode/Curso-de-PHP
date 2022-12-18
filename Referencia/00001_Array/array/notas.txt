@@ -1,0 +1,13 @@
+Sintaxis "índice => valores", separados por comas, definir índice y valores.
+
+El índice puede ser de tipo cadena o entero. 
+
+Cuando se omite el índice, se genera automáticamente un índice entero, comenzando en 0. 
+
+Si el índice es un entero, el próximo índice generado será el índice entero más grande + 1. 
+
+Tenga en cuenta que cuando se definen dos índice idéntico, el último sobrescribe el primero.
+
+Tener una coma trasera después de la última entrada de matriz definida, aunque inusual, es una sintaxis válida.
+
+array() is a language construct used to represent literal arrays, and not a regular function. 

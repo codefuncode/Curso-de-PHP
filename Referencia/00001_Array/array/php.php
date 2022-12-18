@@ -1,4 +1,15 @@
 <?php
+
+//  Sintaxis 'índice = valores', separados por comas, definen índice y valores.
+// El índice puede ser de tipo cadena o entero. Cuando se omite el índice,
+// se genera automáticamente un índice entero, comenzando en 0. Si el índice
+// es un número entero, el siguiente índice generado será el índice entero
+// más grande + 1. Tenga en cuenta que cuando se definen dos índices idénticos,
+// el último sobrescribe al primero.
+
+// Tener una coma final después de la última entrada de matriz definida,
+// aunque es inusual, es una sintaxis válida.
+
 $array = array(
 	1, // inidice 0
 	1, // inidice 1

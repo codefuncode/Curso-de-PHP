@@ -8,6 +8,7 @@
     </title>
   </head>
   <body>
-  	<?php include "./php/php.php"; ?>
+    <h1>
+  	<?php include "./php/php.php";?></h1>
   </body>
 </html>
