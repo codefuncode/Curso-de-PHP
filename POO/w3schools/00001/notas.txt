@@ -1,0 +1,11 @@
+Introducción 
+
+PHP incluye un modelo de objetos completo. Algunas de sus características son: visibilidad, clases y métodos abstractos y finales, métodos mágicos adicionales, interfaces, clonación.
+
+PHP trata los objetos de la misma manera que las referencias o manejadores, lo que significa que cada variable contiene una referencia a un objeto en lugar de una copia de todo el objeto. Véanse los Objetos y referencias 
+
+
+
+https://www.w3schools.com/php/php_oop_what_is.asp
+https://www.php.net/manual/es/oop5.intro.php
+https://www.php.net/manual/en/language.oop5.php

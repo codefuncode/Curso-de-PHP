@@ -1,0 +1,10 @@
+La visibilidad de una propiedad, un método o (a partir de PHP 7.1.0) una constante se puede definir anteponiendo a su declaración una de las palabras reservadas public, protected o private. A los miembros de clase declarados como 'public' se puede acceder desde donde sea; a los miembros declarados como 'protected', solo desde la misma clase, mediante clases heredadas o desde la clase padre. A los miembros declarados como 'private' únicamente se puede acceder desde la clase que los definió. 
+
+
+
+
+Referencias 
+
+https://www.w3schools.com/php/php_oop_access_modifiers.asp
+
+https://www.php.net/manual/es/language.oop5.visibility.php
