@@ -1,0 +1,236 @@
+https://www.php.net/manual/es/langref.php
+
+Referencia del lenguaje ¶
+
+00001-Sintaxis básica
+	01-Etiquetas de PHP
+	Salir de HTML
+	Separación de instrucciones
+	Comentarios
+Tipos
+Introducción
+Type System
+NULO
+Booleanos
+Números enteros (Integers)
+Números de punto flotante
+Cadenas de caracteres (Strings)
+Numeric strings
+Arrays
+Objetos
+Enumerations
+Recursos
+Llamadas de retorno (Callbacks / Callables)
+Mixed
+Void
+Never
+Relative class types
+Value types
+Iterables
+Declaraciones de tipo
+Manipulación de tipos
+Variables
+Conceptos básicos
+Variables Predefinidas
+Ámbito de las variables
+Variables variables
+Variables desde fuentes externas
+Constantes
+Sintaxis
+Constantes predefinidas
+Expresiones
+Operadores
+Precedencia de operadores
+Operadores aritméticos
+Operadores de asignación
+Operadores bit a bit
+Operadores de comparación
+Operadores de control de errores
+Operadores de ejecución
+Operadores de incremento/decremento
+Operadores lógicos
+Operadores para strings
+Operadores para arrays
+Operadores de tipo
+Estructuras de Control
+Introducción
+if
+else
+elseif/else if
+Sintaxis alternativa de estructuras de control
+while
+do-while
+for
+foreach
+break
+continue
+switch
+match
+declare
+return
+require
+include
+require_once
+include_once
+goto
+Funciones
+Funciones definidas por el usuario
+Argumentos de funciones
+Devolver valores
+Funciones variables
+Funciones internas (incluidas)
+Funciones anónimas
+Funciones de flecha
+First class callable syntax
+Clases y objetos
+Introducción
+Lo básico
+Propiedades
+Constantes de clases
+Autocarga de clases
+Constructores y destructores
+Visibilidad
+Herencia de Objetos
+Operador de Resolución de Ámbito (::)
+La palabra reservada 'static'
+Abstracción de clases
+Interfaces de objetos
+Rasgos (Traits)
+Clases anónimas
+Sobrecarga
+Iteración de objetos
+Métodos mágicos
+Palabra clave Final
+Clonación de Objetos
+Comparación de Objetos
+Enlaces estáticos en tiempo de ejecución
+Objetos y referencias
+Serialización de objetos
+Covarianza y Contravarianza
+Registro de cambios de la POO
+Espacios de nombres
+Resumen de los espacios de nombres
+Definir espacios de nombres
+Declarar subespacios de nombres
+Definir varios espacios de nombres en un mismo fichero
+Uso de los espacios de nombres: lo básico
+Espacios de nombres y características dinámicas del lenguaje
+La palabra reservada namespace y la constante __NAMESPACE__
+Uso de los espacios de nombres: apodar/importar
+Espacio global
+Utilizar espacios de nombres: una alternativa a funciones/constantes globales
+Reglas de resolución de nombres
+P+F: cosas que es necesario saber sobre los espacios de nombres
+Enumerations
+Enumerations overview
+Basic enumerations
+Backed enumerations
+Enumeration methods
+Enumeration static methods
+Enumeration constants
+Traits
+Enum values in constant expressions
+Differences from objects
+Value listing
+Serialization
+Why enums aren't extendable
+Ejemplos
+Errores
+Lo básico
+Errores en PHP 7
+Excepciones
+Ampliar las Excepciones
+Fibers
+Generadores
+Información general de los generadores
+Generator syntax
+Comparación entre generadores y objetos Iterator
+Attributes
+Attributes overview
+Attribute syntax
+Reading Attributes with the Reflection API
+Declaring Attribute Classes
+Explicación de las Referencias
+¿Qué son las Referencias?
+¿Qué hacen las referencias?
+¿Qué NO son las Referencias?
+Pasar por Referencia
+Devolver Referencias
+Destruir Referencias
+Ubicar las Referencias
+Variables predefinidas
+Superglobals — Superglobals son variables internas que están disponibles siempre en todos los ámbitos
+$GLOBALS — Hace referencia a todas las variables disponibles en el ámbito global
+$_SERVER — Información del entorno del servidor y de ejecución
+$_GET — Variables HTTP GET
+$_POST — Variables POST de HTTP
+$_FILES — Variables de subida de ficheros HTTP
+$_REQUEST — Variables HTTP Request
+$_SESSION — Variables de sesión
+$_ENV — Variables de entorno
+$_COOKIE — Cookies HTTP
+$php_errormsg — El mensaje de error anterior
+$http_response_header — Encabezados de respuesta HTTP
+$argc — El número de argumentos pasados a un script
+$argv — Array de argumentos pasados a un script
+Excepciones predefinidas
+Exception
+ErrorException
+ClosedGeneratorException — The ClosedGeneratorException class
+Error
+ArgumentCountError
+ArithmeticError
+AssertionError
+DivisionByZeroError
+CompileError
+ParseError
+TypeError
+ValueError
+UnhandledMatchError
+FiberError
+Interfaces y clases predefinidas
+Traversable — La interfaz Traversable
+Iterator — La interfaz Iterator
+IteratorAggregate — La interfaz IteratorAggregate
+InternalIterator — The InternalIterator class
+Throwable
+ArrayAccess — La interfaz ArrayAccess
+Serializable — La interfaz Serializable
+Closure — La clase Closure
+stdClass — The stdClass class
+Generator — La clase Generator
+Fiber — The Fiber class
+WeakReference — La clase WeakReference
+WeakMap — The WeakMap class
+Stringable — The Stringable interface
+UnitEnum — The UnitEnum interface
+BackedEnum — The BackedEnum interface
+SensitiveParameterValue — The SensitiveParameterValue class
+Predefined Attributes
+Attribute — The Attribute class
+AllowDynamicProperties — The AllowDynamicProperties class
+Override — The Override class
+ReturnTypeWillChange — The ReturnTypeWillChange class
+SensitiveParameter — The SensitiveParameter class
+Opciones y parámetros de contexto
+Opciones de contexto de sockets — Listado de opciones de contexto de sockets
+Opciones de contexto de HTTP — Listado de opciones de contexto de HTTP
+Opciones de contexto para FTP — Listado de opciones de contexto para FTP
+Opciones de contexto para SSL — Listado de opciones de contexto para SSL
+Opciones de contexto para CURL — Listado de opciones de contexto para CURL
+Opciones de contexto Phar — Listado de opciones de contexto Phar
+Contexto parámetros — Listado de parámetros de contexto
+Opciones del contexto zip — Listado de opciones del contexto zip
+Protocolos y Envolturas soportados
+file:// — Acceso al sistema de ficheros local
+http:// — Acceso a URLS en HTTP(s)
+ftp:// — Acceso a URLs por FTP(s)
+php:// — Acceso a distintos flujos de E/S
+zlib:// — Flujos de compresión
+data:// — Data (RFC 2397)
+glob:// — Encuentra las rutas que coincidan con el patrón
+phar:// — Archivo PHP
+ssh2:// — Secure Shell 2
+rar:// — RAR
+ogg:// — Flujos de audio
+expect:// — Flujos de Interacción de Procesos
